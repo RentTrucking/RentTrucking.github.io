@@ -1,0 +1,113 @@
+.style-nav .navbar-nav a.nav-link {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.style-nav a.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.style-nav .navbar-nav .nav-link:hover {
+    color: #F3E036;
+}
+
+.navbar .scrolled {
+    background-color: #ffff;
+    transition: background-color 0.5 ease;
+    box-shadow: 0px -10px 30px #666;
+}
+
+.navbar .scrolled a.nav-link {
+    color: #666;
+}
+
+.main-kuning {
+    background-color: #F3E036;
+    margin-top: 50px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.unggul {
+    background: #000000;
+}
+
+.unggul h2 {
+    color: #F3E036;
+}
+
+.bi-check-circle-fill {
+    color: #F3E036;
+}
+
+.unggul .pertama h2 {
+    font-size: 20px;
+    color: #ffff;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pertama p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #F3E036;
+    font-weight: bold;
+}
+
+.logo {
+    max-width: 150px;
+}
+
+.judul {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.tks1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.tks2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.layanan {
+    margin-top: 100px;
+}
+
+.layanan h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #666d00;
+}
+
+.layanan p {
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 5w100;
+}
+
+.nego {
+    margin-top: 80px;
+}
+
+.jarak {
+    margin-top: 50px;
+}
